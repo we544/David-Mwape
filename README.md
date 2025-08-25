@@ -31,3 +31,14 @@
   </footer>
 </body>
 </html>
+
+<main>
+  <h2>Our Ministries</h2>
+  <ul>
+    <li>Youth & Teens</li>
+    <li>Women’s Fellowship</li>
+    <li>Men’s Discipleship</li>
+    <li>Worship Team</li>
+    <li>Outreach & Missions</li>
+  </ul>
+</main>
